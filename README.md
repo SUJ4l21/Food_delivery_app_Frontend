@@ -261,6 +261,6 @@ If you have any questions or need help with the project:
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <strong>Your Name</strong></p>
+  <p>Made with ❤️ by <strong>SUJ4L21</strong></p>
   <p>⭐ Star this repository if you found it helpful!</p>
 </div>
