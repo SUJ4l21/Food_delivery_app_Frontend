@@ -20,6 +20,7 @@ const cartValue = document.querySelector('.cartValue');
 const food = document.querySelector('.food');
 const mobileMenu = document.querySelector('.mobileMenu');
 const bars = document.querySelector('.fa-bars');
+g
 
 
 cartIcon.addEventListener('click', () => {
